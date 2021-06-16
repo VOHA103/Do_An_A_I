@@ -13,7 +13,6 @@ import javax.swing.event.ChangeListener;
 
 
 public class Window extends javax.swing.JFrame implements ChangeListener {
-
     private Dimension dimension;
     private Toolkit toolkit;
     private int widthScreen, heightScreen, width, height;
